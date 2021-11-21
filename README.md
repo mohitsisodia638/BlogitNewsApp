@@ -1,6 +1,6 @@
 # Voice Controlled News Application - BLOG-IT NEWS APP
 
-### [Live Site](https://alan-news-app.netlify.app/)
+### [Live Site](https://blogit-news-app.vercel.app/)
 
 ![Voice Controlled React News Application](https://i.ibb.co/SVyK6Nh/Screenshot-2020-08-03-at-21-24-23.png)
 
